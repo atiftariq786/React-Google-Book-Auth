@@ -1,6 +1,6 @@
 {
 	"auth": {
-		"cognitoab9582fe": {
+		"cognito820ab01e": {
 			"service": "Cognito",
 			"providerPlugin": "awscloudformation"
 		}

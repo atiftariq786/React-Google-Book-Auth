@@ -1,18 +1,18 @@
 {
-    "awsatif": {
+    "atifaws": {
         "awscloudformation": {
-            "AuthRoleName": "googlebookclient-20190430081054-authRole",
-            "UnauthRoleArn": "arn:aws:iam::295444561615:role/googlebookclient-20190430081054-unauthRole",
-            "AuthRoleArn": "arn:aws:iam::295444561615:role/googlebookclient-20190430081054-authRole",
-            "Region": "us-east-1",
-            "DeploymentBucketName": "googlebookclient-20190430081054-deployment",
-            "UnauthRoleName": "googlebookclient-20190430081054-unauthRole",
-            "StackName": "googlebookclient-20190430081054",
-            "StackId": "arn:aws:cloudformation:us-east-1:295444561615:stack/googlebookclient-20190430081054/2c19d570-6b5a-11e9-95f7-0e8cdcc47538"
+            "AuthRoleName": "googlebookclient-20190430105354-authRole",
+            "UnauthRoleArn": "arn:aws:iam::295444561615:role/googlebookclient-20190430105354-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::295444561615:role/googlebookclient-20190430105354-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "googlebookclient-20190430105354-deployment",
+            "UnauthRoleName": "googlebookclient-20190430105354-unauthRole",
+            "StackName": "googlebookclient-20190430105354",
+            "StackId": "arn:aws:cloudformation:us-east-2:295444561615:stack/googlebookclient-20190430105354/f15a0ab0-6b70-11e9-b632-0a84bc2bb20a"
         },
         "categories": {
             "auth": {
-                "cognitoab9582fe": {}
+                "cognito820ab01e": {}
             }
         }
     }
