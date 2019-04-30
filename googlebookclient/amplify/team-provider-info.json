@@ -15,5 +15,22 @@
                 "cognito820ab01e": {}
             }
         }
+    },
+    "cognito": {
+        "awscloudformation": {
+            "AuthRoleName": "googlebookclient-20190430113351-authRole",
+            "UnauthRoleArn": "arn:aws:iam::295444561615:role/googlebookclient-20190430113351-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::295444561615:role/googlebookclient-20190430113351-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "googlebookclient-20190430113351-deployment",
+            "UnauthRoleName": "googlebookclient-20190430113351-unauthRole",
+            "StackName": "googlebookclient-20190430113351",
+            "StackId": "arn:aws:cloudformation:us-east-1:295444561615:stack/googlebookclient-20190430113351/85dac210-6b76-11e9-9d7d-127a71eef55e"
+        },
+        "categories": {
+            "auth": {
+                "cognito820ab01e": {}
+            }
+        }
     }
 }
