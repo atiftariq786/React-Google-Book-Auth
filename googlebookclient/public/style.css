@@ -1,0 +1,16 @@
+.jumbo-title{
+    font-family: 'Lobster Two', cursive;
+}
+body{
+    background-image: url("https://cdn.wallpapersafari.com/39/97/OabEMX.jpg")
+}
+
+.jumbo-bg{
+    background-color: grey;
+    opacity: .65;
+    text-shadow: 2px 2px black;
+}
+
+.Otext{
+    color:white;
+}

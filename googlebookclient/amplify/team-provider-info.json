@@ -1,0 +1,19 @@
+{
+    "awsapp": {
+        "awscloudformation": {
+            "AuthRoleName": "googlebookclient-20190429234305-authRole",
+            "UnauthRoleArn": "arn:aws:iam::295444561615:role/googlebookclient-20190429234305-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::295444561615:role/googlebookclient-20190429234305-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "googlebookclient-20190429234305-deployment",
+            "UnauthRoleName": "googlebookclient-20190429234305-unauthRole",
+            "StackName": "googlebookclient-20190429234305",
+            "StackId": "arn:aws:cloudformation:us-east-1:295444561615:stack/googlebookclient-20190429234305/3b04ed00-6b13-11e9-9293-12967e4454e6"
+        },
+        "categories": {
+            "auth": {
+                "cognito0642060a": {}
+            }
+        }
+    }
+}
