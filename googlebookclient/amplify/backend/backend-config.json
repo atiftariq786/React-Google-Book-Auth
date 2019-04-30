@@ -1,7 +1,13 @@
 {
 	"auth": {
-		"cognito0642060a": {
+		"cognito0455dc9d": {
 			"service": "Cognito",
+			"providerPlugin": "awscloudformation"
+		}
+	},
+	"hosting": {
+		"S3AndCloudFront": {
+			"service": "S3AndCloudFront",
 			"providerPlugin": "awscloudformation"
 		}
 	}
