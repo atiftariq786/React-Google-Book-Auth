@@ -3,7 +3,7 @@ import axios from "axios";
 export default {
   // Gets all books
   getSaved: function () {
-    return axios.get("http://afternoon-plains-47834.herokuapp.com/api/books/");
+    return axios.get("https://afternoon-plains-47834.herokuapp.com/api/books/");
   },
   // Gets the book with the given id
   searchBook: function (search) {
@@ -11,10 +11,10 @@ export default {
   },
   // Deletes the book with the given id
   deleteBook: function (id) {
-    return axios.delete("http://afternoon-plains-47834.herokuapp.com/api/books/" + id);
+    return axios.delete("https://afternoon-plains-47834.herokuapp.com/api/books/" + id);
   },
   // Saves a book to the database
   saveBook: function (bookData) {
-    return axios.post("http://afternoon-plains-47834.herokuapp.com/api/books/", bookData);
+    return axios.post("https://afternoon-plains-47834.herokuapp.com/api/books/", bookData);
   }
 };
