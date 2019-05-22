@@ -8,6 +8,7 @@ This is a full-stack MERN application,which allows users to search for book titl
 *   **React.js** as a JavaScript library for making the main structure of the app's UI.
 *   **JavaScript** for the app's logic.  
 *   **Node.JS** for the app's server environment.
+*   **AWS Cognito** for user login authentication.
 *   **ES6** ES6 refers to version 6 of the ECMA Script programming language. ECMA Script is the            standardized name for JavaScript.
 *   **NPM** for installation of the packages required by the app.
 
@@ -25,15 +26,15 @@ This is a full-stack MERN application,which allows users to search for book titl
 
 **  Home View
 
-![alt text]()
+![alt text](https://github.com/atiftariq786/React-Google-Book-Auth/blob/master/googlebookclient/images/home.png?raw=true)
 
-**  Search Books
+**  Add Comment
 
-![alt text]()
+![alt text](https://github.com/atiftariq786/React-Google-Book-Auth/blob/master/googlebookclient/images/Addnotes.png?raw=true)
 
 **  Saved Books
 
-![alt text]()
+![alt text](https://github.com/atiftariq786/React-Google-Book-Auth/blob/master/googlebookclient/images/savedarticles.png?raw=true)
 
 
 ## :hammer_and_wrench: Deployment Instructions
