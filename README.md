@@ -24,17 +24,17 @@ This is a full-stack MERN application,which allows users to search for book titl
 
 ## :camera:App Images
 
-**  Home View
+**  Landing Page
 
-![alt text](https://github.com/atiftariq786/React-Google-Book-Auth/blob/master/googlebookclient/images/home.png?raw=true)
+![alt text]()
 
-**  Add Comment
+**  Book Search
 
-![alt text](https://github.com/atiftariq786/React-Google-Book-Auth/blob/master/googlebookclient/images/Addnotes.png?raw=true)
+![alt text]()
 
 **  Saved Books
 
-![alt text](https://github.com/atiftariq786/React-Google-Book-Auth/blob/master/googlebookclient/images/savedarticles.png?raw=true)
+![alt text]()
 
 
 ## :hammer_and_wrench: Deployment Instructions
